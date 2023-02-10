@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8079c8c-11f5-41ad-8861-f71153d925a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiceGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/1side.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/2side.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/3side.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/4side.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/5side.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/6side.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Background.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Die.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieGameView.java" afterDir="false" />
+    <list default="true" id="f8079c8c-11f5-41ad-8861-f71153d925a2" name="Changes" comment="Done!">
+      <change afterPath="$PROJECT_DIR$/src/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Die.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Die.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DieGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DieGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675454159361</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done!">
+      <created>1675897244743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675897244743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done!" />
   </component>
 </project>

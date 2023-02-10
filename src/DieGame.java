@@ -69,9 +69,13 @@ public class DieGame {
         //the required number of dice functions used
         printInstructions(player1Die.toString());
 
+
+
+
         //The game runs until one player runs out of dice
         while (player1RollsLeft != 0 && player2RollsLeft != 0)
         {
+
             //Sets the number of dice rolled this turn by this player
             //To more than the allowed number to generate loop
             //Waits until an acceptable number is entered

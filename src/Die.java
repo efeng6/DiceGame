@@ -13,6 +13,7 @@ public class Die
     public Die(int numSides, DieGameView view) {
         sides = numSides;
         this.view = view;
+
     }
 
     /** Methods **/
